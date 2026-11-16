@@ -1,6 +1,6 @@
-# Angular E-commerce
+# angular-ecomerce
 
-Aplicação web de e-commerce criada como projeto de estudo com Angular. O repositório contém a estrutura de uma aplicação Angular com componentes, módulos e navegação.
+Projeto inicial de estudo criado com Angular CLI. A branch atual contém a estrutura base de uma aplicação Angular 14; não representa uma loja virtual completa.
 
 ## Stack
 - Angular 14
@@ -15,4 +15,4 @@ npm install
 npm start
 ```
 
-A aplicação também pode ser compilada com `npm run build`. Demo de edição: https://stackblitz.com/edit/angular-ivy-wsw6md.
+A compilação é feita com `npm run build`. Projeto editável no StackBlitz: https://stackblitz.com/edit/angular-ivy-wsw6md.
